@@ -2,7 +2,7 @@ Thực hiện import MySql theo file
 
 ![image](https://user-images.githubusercontent.com/78399005/175763999-65f82aa2-395e-42be-930d-2bf040769e0b.png)
 
-Sau đó mở thư mục application.properties
+Sau đó mở file application.properties trong resources 
 
 Thực hiện điền các thông tin mysql
 
