@@ -12,6 +12,11 @@ Thực hiện điền các thông tin mysql
 
 Khi điền thông tin xong bạn có thể chạy chương trình với localhosh là 8080
 
+Để thanh toán với papal thì bạn điền 
+sb-4xuc412779946@personal.example.com
+Nhatban123
+
+
 Nếu muốn tải hình ảnh thêm phim thì thêm các thông tin access-key secret-key 
 
 
