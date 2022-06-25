@@ -10,6 +10,7 @@ Thực hiện điền các thông tin mysql
 ![image](https://user-images.githubusercontent.com/78399005/175764181-23c4ddcf-fa65-4f56-9612-816e203f21be.png)
 
 
+Khi điền thông tin xong bạn có thể chạy chương trình với localhosh là 8080
 
 Nếu muốn tải hình ảnh thêm phim thì thêm các thông tin access-key secret-key 
 
