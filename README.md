@@ -33,7 +33,7 @@ thực hiện sửa thông tin ngày giờ của suât chiếu
 
 ![image](https://user-images.githubusercontent.com/78399005/175764916-4ae7f116-1ee1-420f-8e3b-f61638d9ed19.png)
 
-Khi đó bạn có thể Quay về trang chủ để thực hiện đặt vé 
+Sau đó bạn có thể Quay về trang chủ để thực hiện đặt vé 
 
 Để thanh toán với papal thì bạn điền 
 
